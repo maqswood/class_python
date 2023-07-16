@@ -1,4 +1,4 @@
-x = "python 123"
+x = "python123"
 print(x.isalnum())
 print(x.isalpha())
 print(x.islower())

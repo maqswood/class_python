@@ -1,3 +1,4 @@
+
 O_mark = int(input("enter your Obtained mark"))
 F_mark = int(input("enter your Full mark"))
 grade = (O_mark / F_mark) * 100

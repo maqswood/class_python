@@ -1,15 +1,17 @@
 # insrt method()
 
-list = [1, 2, 3, 4, 5, 6]
-list.insert(3, "maqswood")
-print(list)
+list1 = [1, 2, 3, 4, 5, 6]
+print(list1)
+list1.insert(3, "maqswood")
+print(list1)
 
 
 # append methode
 
 list2 = ["a", "b", "c", "d"]
-list.append(list2)
-print(list)
+print(list2)
+list1.append(list2)
+print(list1)
 
 
 # extend method
