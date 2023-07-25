@@ -42,17 +42,17 @@
 #
 # print(list)
 
-def tri_recursion(k):
-    if (k > 0):
-        result = k + tri_recursion(k - 1)
-        print(result)
-    else:
-        result = 0
-    return result
-
-
-print("\n\nRecursion Example Results")
-tri_recursion(6)
+# def tri_recursion(k):
+#     if (k > 0):
+#         result = k + tri_recursion(k - 1)
+#         print(result)
+#     else:
+#         result = 0
+#     return result
+#
+#
+# print("\n\nRecursion Example Results")
+# tri_recursion(6)
 #
 # def recursion(k):
 #     print(k)
@@ -65,3 +65,44 @@ tri_recursion(6)
 #
 #
 # print("recurtion result is:", recursion(6))
+
+
+# def myfunc():
+#     x = 300
+#
+#     def myinnerfunc():
+#
+#         print(x)
+#
+#     myinnerfunc()
+#
+#
+# myfunc()
+
+
+# x = 300
+#
+# def myfunc():
+#     x=400
+#     print(x)
+#
+# myfunc()
+#
+# print(x)
+
+#
+#
+# import platform
+#
+# x = platform.system()
+# print(x)
+#
+# import platform
+#
+# x = dir(platform)
+# print(x)
+import camelcase
+
+x = camelcase.CamelCase()
+txt = "maqswood is king"
+print(x.hump(txt))
