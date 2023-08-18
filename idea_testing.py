@@ -101,8 +101,28 @@
 #
 # x = dir(platform)
 # print(x)
-import camelcase
+# import camelcase
+#
+# x = camelcase.CamelCase()
+# txt = "maqswood is king"
+# print(x.hump(txt))
 
-x = camelcase.CamelCase()
-txt = "maqswood is king"
-print(x.hump(txt))
+
+# import sys
+# import matplotlib
+#
+# matplotlib.use('TkAgg')
+# import matplotlib.pyplot as plt
+# import numpy as np
+#
+# xpoints = np.array([0, 6])
+# ypoints = np.array([0, 250])
+#
+# plt.plot(xpoints, ypoints)
+# plt.show()
+# plt.savefig(sys.stdout.buffer)
+# sys.stdout.flush()
+
+
+
+

@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f80a8365-abc5-4167-923a-52cb00d157de" name="Changes" comment="class20">
-      <change afterPath="$PROJECT_DIR$/OOPs/Inheritance/Example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPs/Inheritance/Example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPs/Inheritance/Hierarchical_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPs/Inheritance/Multilevelinheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPs/Inheritance/Multpleinheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPs/Inheritance/SingleInheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPs/Inheritance/multilevel_functioncall_frm_last_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPs/Regular_expression_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism/poltmorphism_example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism/polymorphism_example.py" afterDir="false" />
+    <list default="true" id="f80a8365-abc5-4167-923a-52cb00d157de" name="Changes" comment="class21">
+      <change afterPath="$PROJECT_DIR$/Datatypes/string/string_sort_and_split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/re_module/Regular_expression_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/re_module/re-WHITE_space.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/re_module/re_findall_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/re_module/re_split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/re_module/re_sub_method_for_replace.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datatypes/string/string_sort.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/idea_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/idea_testing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,34 +50,38 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2Room6OZUr2TlmwQhap7j24qQZT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/maqswood/PycharmProjects/class_python/For_loop&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/maqswood/PycharmProjects/class_python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/For_loop" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OOPs/re_module" />
       <recent name="$PROJECT_DIR$/OOPs" />
       <recent name="$PROJECT_DIR$/Datatypes/list" />
       <recent name="$PROJECT_DIR$/assignment" />
       <recent name="$PROJECT_DIR$/Datatypes" />
-      <recent name="$PROJECT_DIR$/Datatypes/string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Regular_expression_search">
-    <configuration name="Hierarchical_inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.find_element_repeatation_in_list">
+    <configuration name="Assignment1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="class_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Inheritance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inheritance/Hierarchical_inheritance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment/Assignment1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +102,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Regular_expression_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="find_element_repeatation_in_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="class_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datatypes/list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datatypes/list/find_element_repeatation_in_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="idea_testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="class_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPs/Regular_expression_search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/idea_testing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,19 +144,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multilevel_functioncall_frm_last_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="class_python" />
+    <configuration name="string_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPs/Inheritance" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datatypes/string" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPs/Inheritance/multilevel_functioncall_frm_last_class.py" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datatypes/string/string_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="poltmorphism_example2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string_sort_and_split" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="class_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,32 +174,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polymorphism" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datatypes/string" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/polymorphism/poltmorphism_example2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="polymorphism_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="class_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polymorphism" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/polymorphism/polymorphism_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datatypes/string/string_sort_and_split.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Regular_expression_search" />
-        <item itemvalue="Python.poltmorphism_example2" />
-        <item itemvalue="Python.polymorphism_example" />
-        <item itemvalue="Python.multilevel_functioncall_frm_last_class" />
-        <item itemvalue="Python.Hierarchical_inheritance" />
+        <item itemvalue="Python.find_element_repeatation_in_list" />
+        <item itemvalue="Python.Assignment1" />
+        <item itemvalue="Python.idea_testing" />
+        <item itemvalue="Python.string_sort_and_split" />
+        <item itemvalue="Python.string_sort" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +286,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689857706567</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="class21">
+      <option name="closed" value="true" />
+      <created>1690265160135</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1690265160135</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -296,6 +306,7 @@
     <MESSAGE value="class18" />
     <MESSAGE value="class19" />
     <MESSAGE value="class20" />
-    <option name="LAST_COMMIT_MESSAGE" value="class20" />
+    <MESSAGE value="class21" />
+    <option name="LAST_COMMIT_MESSAGE" value="class21" />
   </component>
 </project>
